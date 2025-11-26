@@ -1,21 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Python: Packages",
+    "slug": "python-packages",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "python-introduction"
     ],
     "related": [
-        "",
-        ""
+        "python-standard-library",
+        "open-source-introduction"
     ]
 }
