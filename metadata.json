@@ -8,12 +8,15 @@
         "python",
         "software-engineering"
     ],
-    "duration": 1,
+    "duration": 2,
     "prerequisites": [
         "python-introduction"
     ],
     "related": [
         "python-standard-library",
-        "open-source-introduction"
+        "open-source-introduction",
+        "python-numpy-introduction",
+        "python-pandas-introduction",
+        "python-matplotlib-introduction"
     ]
 }
