@@ -1,6 +1,7 @@
 {
     "title": "Python: Packages",
     "slug": "python-packages",
+    "description": "An introduction to packages in Python.",
     "authors": [
         "chris-cooling"
     ],
