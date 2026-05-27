@@ -17,6 +17,7 @@
         "python-standard-library",
         "open-source-introduction",
         "numpy-introduction",
+        "scipy-introduction",
         "pandas-introduction",
         "matplotlib-introduction"
     ]
