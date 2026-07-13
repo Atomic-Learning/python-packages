@@ -15,8 +15,9 @@
     ],
     "related": [
         "python-standard-library",
-        "open-source-introduction",
+        "open-source-software-introduction",
         "numpy-introduction",
+        "scipy-introduction",
         "pandas-introduction",
         "matplotlib-introduction"
     ]

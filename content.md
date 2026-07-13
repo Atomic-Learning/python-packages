@@ -5,6 +5,7 @@ A Python package is a collection of code that is bundled together to provide spe
 Many Python packages are publicly available and can be downloaded and installed from online repositories, such as the [Python Package Index (PyPI)](https://pypi.org/). Many packages available this way are open-source and maintained by the Python community, and they can be easily integrated into your projects to add new features or simplify complex tasks. Using packages in this way is a common and effective method to enhance your Python applications. Common examples of popular Python packages include:
 
 - **NumPy**: A package for numerical computing and working with arrays.
+- **SciPy**: A package for common scientific computing tasks.
 - **Pandas**: A package for data manipulation and analysis.
 - **Matplotlib**: A package for creating static, animated, and interactive visualizations in Python.
 
