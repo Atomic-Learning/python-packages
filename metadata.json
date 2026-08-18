@@ -15,6 +15,7 @@
     ],
     "related": [
         "python-standard-library",
+        "python-importing-from-submodules-in-packages",
         "open-source-software-introduction",
         "numpy-introduction",
         "scipy-introduction",
